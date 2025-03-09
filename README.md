@@ -19,7 +19,7 @@ PastaKiller — инструмент для автоматического ре�
 
 ```json
 {
-  "use_proxies": true или false,
+  "use_proxies": true,
   "api_key": "ВАШ_API_КЛЮЧ_RUCAPTCHA",
   "pastebin_id": "ID_ПАСТЫ (https://pastebin.com/ID_ПАСТЫ)",
   "telegram_token": "ВАШ_TELEGRAM_BOT_TOKEN",
